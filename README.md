@@ -17,7 +17,7 @@ Enter any city in the world and get:
 
 ---
 
-## 🚀 Features
+## 🚀 Feature
 
 ### ✔ Global City Search
 
